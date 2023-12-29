@@ -2,6 +2,9 @@
 A type-safe, cache-friendly template component pattern implementation.
 The code is small but applicable in practical development, and it's always expandable.
 
+# Requirement
+A compiler supporting C++20 
+
 # Usage
 ```
 class Player;
