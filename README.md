@@ -78,4 +78,4 @@ public:
 ```
 
 # Recommendation
-Direct referencing between components can lead to increased coupling. Make your own system (e.g. messaging system)
+Direct referencing between components can lead to increased coupling. Make your own system. (e.g. messaging system)
