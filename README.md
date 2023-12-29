@@ -1,6 +1,6 @@
-# ComponentPattern
-A type-safe, cache-friendly, header-only template component pattern implementation.
-The code is small but applicable in practical development, and it's always expandable.
+# templated component pattern
+A header-only implementation of a type-safe, cache-friendly template component pattern within a component-based architecture.
+The code is small but applicable in commercial game development, and it's always expandable.
 
 # Requirement
 A compiler supporting C++20 
