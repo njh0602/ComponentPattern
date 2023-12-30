@@ -6,7 +6,7 @@ The code is small but applicable in commercial game development, and it's always
 A compiler supporting C++20 
 
 # Full code
-```
+```cpp
 template<typename Owner>
 class ComponentBase
 {
@@ -41,7 +41,7 @@ public:
 ```
 
 # Usage
-```
+```cpp
 class Player;
 class FSMComponent : ComponentBase<Player>
 {
