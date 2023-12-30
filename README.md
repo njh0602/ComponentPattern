@@ -1,4 +1,4 @@
-# templated component pattern
+# Templated Component Pattern
 A header-only implementation of a type-safe, cache-friendly template component pattern within a component-based architecture.
 The code is small but applicable in commercial game development, and it's always expandable.
 
